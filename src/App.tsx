@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 // 1. 內建原生 SVG 圖標 (免安裝任何套件，絕對不會報錯)
 const Icons = {
